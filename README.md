@@ -1,4 +1,4 @@
-# venturus-1.0.0: Squad Management Tool
+#Squad Management Tool
 
 
 # Tecnologias
